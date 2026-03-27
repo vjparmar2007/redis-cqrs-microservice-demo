@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/M3walThivc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ascott\\source\\repos\\redis-cqrs-microservice-demo1\\my-architecture-demo\\src\\api\\DemoApi\\DemoApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ascott\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\Ascott\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  api:
+    build: ./src/api/DemoApi
+    ports:
+      - "5000:80"
+  ui:
+    build: ./src/ui/demo-ui
+    ports:
+      - "4200:4200"
